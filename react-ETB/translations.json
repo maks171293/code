@@ -1,0 +1,38 @@
+{
+  "en": {
+    "translations": {
+      "Main Menu": "Main",
+      "Template Builder": "Template Builder",
+      "Contacts": "Contacts",
+      "Welcome to React": "Welcome to React and react-i18next",
+      "Text Block": "Text",
+      "Boxed Text Block": "Boxed Text",
+      "Divider Block": "Divider",
+      "Image Block": "Image",
+      "Image Group Block": "Image Group",
+      "Image + Caption Block": "Image + Caption",
+      "Social Share Block": "Social Share",
+      "Button Block": "Button",
+      "Footer Block": "Footer",
+      "Header Block": "Header"
+    }
+  },
+  "ru": {
+    "translations": {
+      "Main Menu": "Главная",
+      "Template Builder": "Строитель Шаблонов",
+      "Contacts": "Контакты",
+      "Welcome to React": "Willkommen bei React und react-i18next",
+      "Text Block": "Текст",
+      "Boxed Text Block": "Текст Бох",
+      "Divider Block": "Разделитель",
+      "Image Block": "Изображение",
+      "Image Group Block": "Група Изобр",
+      "Image + Caption Block": "Изобр + Опис",
+      "Social Share Block": "Соц Иконки",
+      "Button Block": "Кнопка",
+      "Footer Block": "Футер",
+      "Header Block": "Хедер"
+    }
+  }
+}

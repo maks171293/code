@@ -1,0 +1,20 @@
+{
+  "ru": {
+    "translations": {
+      "Main Menu": "Главная",
+      "Template Builder": "Строитель Шаблонов",
+      "Contacts": "Контакты",
+      "Welcome to React": "Willkommen bei React und react-i18next",
+      "Text Block": "Текст",
+      "Boxed Text Block": "Текст Бох",
+      "Divider Block": "Разделитель",
+      "Image Block": "Изображение",
+      "Image Group Block": "Група Изобр",
+      "Image + Caption Block": "Изобр + Опис",
+      "Social Share Block": "Соц Иконки",
+      "Button Block": "Кнопка",
+      "Footer Block": "Футер",
+      "Header Block": "Хедер"
+    }
+  }
+}

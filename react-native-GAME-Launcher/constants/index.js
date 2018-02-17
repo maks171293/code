@@ -1,0 +1,25 @@
+
+//Auth
+export const ON_AUTH_STARTED = "ON_AUTH_STARTED";
+export const ON_AUTH_SUCCESS = "ON_AUTH_SUCCESS";
+export const ON_AUTH_ERROR = "ON_AUTH_ERROR";
+
+//Player
+export const ON_PLAYER_GET = "ON_GET_PLAYER";
+export const ON_PLAYER_GET_SUCCESS = "ON_PLAYER_GET_SUCCESS";
+export const ON_PLAYER_GET_FAIL = "ON_PLAYER_GET_FAIL";
+
+//Games 
+export const ON_GAMES_GET = "ON_GAMES_GET";
+export const ON_GAMES_GET_SUCCESS = "ON_GAMES_GET_SUCCESS";
+export const ON_GAMES_GET_FAIL = "ON_GAMES_GET_FAIL";
+
+//Offers
+export const ON_OFFERS_GET = "ON_OFFERS_GET";
+export const ON_OFFERS_GET_SUCCESS = "ON_OFFERS_GET_SUCCESS";
+export const ON_OFFERS_GET_FAIL = "ON_OFFERS_GET_FAIL";
+
+//Bonuses
+export const ON_BONUSES_RETURN = "ON_BONUSES_RETURN";
+export const ON_BONUSES_RETURN_SUCCESS = "ON_BONUSES_RETURN_SUCCESS";
+export const ON_BONUSES_RETURN_FAIL = "ON_BONUSES_RETURN_FAIL";
